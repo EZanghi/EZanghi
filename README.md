@@ -1,36 +1,44 @@
-<h1 align="center">Hi 👋, I'm Eduardo Zanghi</h1>
+<h1 align="center">Hi 🖖, I'm Eduardo Zanghi</h1>
 <h3 align="center">A Mechanical Engineer, passionate about Tech, Data Science, and Machine Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezanghi&label=Profile%20views&color=0e75b6&style=flat" alt="ezanghi" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ezanghi&label=Profile%20views&color=0e75b6&style=flat" alt="ezanghi" /> </p>
 
-- 🌱 I’m currently learning **DAX, SQL**
+- 🌱 I’m currently learning: **DAX, SQL**
 
 - 🤝 I’m looking for help with **a job - my first professional opportunity with Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EZanghi/Portfolio_DataScience](https://github.com/EZanghi/Portfolio_DataScience)
+- 👨‍💻 All of my projects are available at: [https://github.com/EZanghi/Portfolio_DataScience](https://github.com/EZanghi/Portfolio_DataScience)
 
-- 💬 Ask me about **Python, Machine Learning, Power BI and Excel**
+- 💬 Ask me about: **Python, Machine Learning, Power BI and Excel**
 
-- 📫 How to reach me **eduardo_zanghi@hotmail.com**
+- 📫 How to reach me: **eduardo_zanghi@hotmail.com**
 
 - ⚡ Fun fact **I'm awful liar**
 
+---
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eduardo-zanghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-zanghi" height="30" width="40" /></a>
-<a href="https://kaggle.com/ezanghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ezanghi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eduardo_zanghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eduardo_zanghi" height="30" width="40" /></a>
-</p>
+<div style="display: inline_block"><br>
+  <p align="left">
+  <a href="https://linkedin.com/in/eduardo-zanghi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eduardo-zanghi LinkedIn"/></a>
+  <a href="https://kaggle.com/ezanghi" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="ezanghi Kaggle"/></a>
+  <a href="https://www.hackerrank.com/eduardo_zanghi" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="eduardo_zanghi HackerRank" /></a>
+  </p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-<p align="left"> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<div style="display: inline_block"><br>
+  <p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python" /> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a> 
+  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="PowerBI"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" /> </a> 
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezanghi&show_icons=true&locale=en&layout=compact" alt="ezanghi" /></p>
-
+<div style="display: inline_block"><br>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezanghi&show_icons=true&locale=en&layout=compact" alt="ezanghi" />
+  </p>
+</div>
 
 
 
