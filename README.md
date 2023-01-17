@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **a job - my first professional opportunity with Data Science**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/EZanghi/Portfolio_DataScience](https://github.com/EZanghi/Portfolio_DataScience)
+- 👨‍💻 All of my projects are available at: [Portfolio_DataScience](https://github.com/EZanghi/Portfolio_DataScience)
 
 - 💬 Ask me about: **Python, Machine Learning, Power BI and Excel**
 
